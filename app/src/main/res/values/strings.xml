@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Mi primera app</string>
+    <string name="imagen_principal">Imagen principal</string>
+    <string name="encendido">Encendido</string>
+    <string name="apagado">Apagado</string>
+    <string name="btn_flotante">Botón flotante</string>
+    <string name="buscar">Buscar</string>
+    <string name="hint_cajon_busqueda">Buscar en UniShop</string>
+    <string name="categorias">Categorías</string>
+    <string name="agregar_carrito">Añadir al carrito</string>
+    <string name="tecnologia">Tecnología</string>
+    <string name="electro">Electrodomésticos</string>
+    <string name="hogar">Hogar</string>
+    <string name="otros">Otros</string>
+    <string name="ropa">Ropa</string>
+    <string name="herramientas">Herramientas</string>
+    <string name="ofertas">Ofertas</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="registro">Registrarse</string>
+    <string name="img_producto">Imagen del producto</string>
+    <string name="txt_nombre_producto">Nombre del producto</string>
+    <string name="txt_precio_producto">Precio del producto</string>
+    <string name="txt_descuento_producto">Descuento del producto</string>
+    <string name="txt_descripcion">Descripción del producto</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="titulo_producto">Título<strike> producto </strike></string>
+</resources>
